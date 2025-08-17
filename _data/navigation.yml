@@ -7,6 +7,8 @@ main:
     url: /teaching/
   - title: "Posts"
     url: /posts/
+  - title: "People"
+    url: /people/
   - title: CV
     url: /assets/file/donatella_genovese_cv.pdf
     external: true
