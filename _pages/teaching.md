@@ -3,8 +3,6 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-# Teaching Experience
-
 Here is a list of courses I have assisted in as a Teaching Assistant at Sapienza University of Rome:
 
 - **Probability**  
