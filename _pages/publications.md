@@ -1,5 +1,5 @@
 ---
-permalink: /publicatons/
+permalink: /publication/
 title: "Publications"
 ---
 
