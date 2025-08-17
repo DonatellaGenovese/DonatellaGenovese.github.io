@@ -1,13 +1,9 @@
 ---
 permalink: /people/
-title: "People"
+title: "People I’m Working With"
 ---
 
-# People I’m Working With
-
 Here are some of the colleagues and collaborators I currently work with:
-
-## Team Members
 
 - [**Prof. Simone Scardapane**](https://www.sscardapane.it/)  
   Affiliation: Sapienza Università di Roma
