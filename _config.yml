@@ -83,9 +83,22 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DonatellaGenovese"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:donatella.genovese@uniroma1.it"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/donatellag.bsky.social"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/donatella-genovese"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=Zayruk4AAAAJ&hl=it"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
+
 
 defaults:
   # _posts
