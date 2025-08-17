@@ -1,9 +1,4 @@
 ---
-title: "Captum Tutorial"
-date: 2025-08-17
----
-
----
 title: "Tutorial: Implementing Explainability Techniques in Captum for Plant Disease Classification"
 last_modified_at: 2025-08-17 12:00:00 +0000
 categories: Blog
