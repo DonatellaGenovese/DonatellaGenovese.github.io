@@ -6,10 +6,6 @@ layout: single
 author_profile: true
 ---
 
-Got it! Here’s a more concise and polished homepage draft for Donatella Genovese with your requested sections and a shorter BrainJuice description without bullet points:
-
----
-
 # Donatella Genovese
 
 👩‍🎓 I am a PhD student enrolled in the National PhD in AI program at Sapienza University of Rome, under the supervision of [Simone Scardapane](https://www.sscardapane.it/). My research focuses on interpretable deep learning algorithms for scientific discovery and analysis.
