@@ -8,7 +8,7 @@ main:
   - title: "Posts"
     url: /posts/
   - title: CV
-    url: /assets/files/donatella_genovese_cv.pdf
+    url: /assets/file/donatella_genovese_cv.pdf
     external: true
     attributes:
       download: true
