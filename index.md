@@ -1,14 +1,6 @@
 <title>Donatella Genovese – PhD Candidate</title>
 <meta name="description" content="Donatella Genovese, PhD Candidate in Artificial Intelligence">
 
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true
----
-
 👩‍🎓 I am a PhD student enrolled in the National PhD in AI program at Sapienza University of Rome, under the supervision of [Simone Scardapane](https://www.sscardapane.it/). My research focuses on interpretable deep learning algorithms for scientific discovery and analysis.
 
 ---
