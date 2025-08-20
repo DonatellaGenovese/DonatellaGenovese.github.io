@@ -1,33 +1,41 @@
-<meta name="description" content="Donatella Genovese, PhD Candidate in Artificial Intelligence">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Donatella Genovese – PhD Candidate in AI</title>
+  <meta name="description" content="Donatella Genovese, PhD Candidate in Artificial Intelligence">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+</head>
+<body>
 
-👩‍🎓 I am a PhD student enrolled in the National PhD in AI program at Sapienza University of Rome, under the supervision of [Simone Scardapane](https://www.sscardapane.it/). My research focuses on interpretable deep learning algorithms for scientific discovery and analysis.
+  <h1>👩‍🎓 Donatella Genovese</h1>
+  <p>I am a PhD student enrolled in the National PhD in AI program at Sapienza University of Rome, under the supervision of <a href="https://www.sscardapane.it/">Simone Scardapane</a>. My research focuses on interpretable deep learning algorithms for scientific discovery and analysis.</p>
 
----
+  <hr>
 
-## 🧠 BrainJuice 
+  <h2>🧠 BrainJuice</h2>
+  <p>I'm Co-founder of BrainJuice, a group of students and researchers with diverse backgrounds, united by a passion for AI and neuroscience. Follow BrainJuice on <a href="https://instagram.com/brainjuiceclub">Instagram</a> and <a href="https://linkedin.com/company/brainjuiceclub">LinkedIn</a> to keep up with our activities.</p>
 
-I'm Co-founder of BrainJuice, a group of students and researchers with diverse backgrounds, united by a passion for AI and neuroscience. Follow BrainJuice on [Instagram](https://instagram.com/brainjuiceclub) and [LinkedIn](https://linkedin.com/company/brainjuiceclub) to keep up with our activities.
+  <hr>
 
----
+  <h2>Sections</h2>
+  <ul>
+    <li><strong>Publications</strong>: My latest research papers in interpretable deep learning and scientific AI.</li>
+    <li><strong>Talks</strong>: Invited talks, presentations, and seminars.</li>
+    <li><strong>Teaching</strong>: Courses and lectures I'm involved with.</li>
+    <li><strong>Posts</strong>: Reflections, tutorials, and updates on AI and neuroscience.</li>
+  </ul>
 
-## Sections
+  <hr>
 
-**Publications**
-Here you will find my latest research papers and contributions in interpretable deep learning and AI for scientific applications.
+  <h2>Connect with Me</h2>
+  <p>You can find me on 
+    <a href="https://www.linkedin.com/in/donatella-genovese">LinkedIn</a>, 
+    <a href="https://x.com/d_genovese">Twitter</a>, and 
+    <a href="https://bsky.app/profile/donatellag.bsky.social">BlueSky</a>. 
+    Feel free to reach out!
+  </p>
 
-**Talks**
-A collection of invited talks, conference presentations, and seminars where I share insights on my research and related topics.
-
-**Teaching**
-Resources, courses, and lectures I’m involved with.
-
-**Posts**
-Reflections, tutorials, and updates on my work and the broader AI and neuroscience fields, shared in an accessible and engaging style.
-
----
-
-## Connect with Me
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/donatella-genovese), [Twitter](https://x.com/d_genovese), and [BlueSky](https://bsky.app/profile/donatellag.bsky.social). Feel free to reach out!
-
----
+</body>
+</html>
