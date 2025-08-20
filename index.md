@@ -1,3 +1,6 @@
+<title>Donatella Genovese – PhD Candidate</title>
+<meta name="description" content="Donatella Genovese, PhD Candidate in Artificial Intelligence">
+
 ---
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
