@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "Donatella Genovese"
 permalink: /
 author_profile: true
 ---
@@ -15,7 +15,6 @@ author_profile: true
 </head>
 <body>
 
-  <h1>👩‍🎓 Donatella Genovese</h1>
   <p>I am a PhD student enrolled in the National PhD in AI program at Sapienza University of Rome, under the supervision of <a href="https://www.sscardapane.it/">Simone Scardapane</a>. My research focuses on interpretable deep learning algorithms for scientific discovery and analysis.</p>
 
   <hr>
