@@ -24,16 +24,6 @@ author_profile: true
 
   <hr>
 
-  <h2>Sections</h2>
-  <ul>
-    <li><strong>Publications</strong>: My latest research papers in interpretable deep learning and scientific AI.</li>
-    <li><strong>Talks</strong>: Invited talks, presentations, and seminars.</li>
-    <li><strong>Teaching</strong>: Courses and lectures I'm involved with.</li>
-    <li><strong>Posts</strong>: Reflections, tutorials, and updates on AI and neuroscience.</li>
-  </ul>
-
-  <hr>
-
   <h2>Connect with Me</h2>
   <p>You can find me on 
     <a href="https://www.linkedin.com/in/donatella-genovese">LinkedIn</a>, 
