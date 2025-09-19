@@ -3,9 +3,9 @@ permalink: /talks/
 title: "Talks"
 ---
 
--**Uncertainty and Calibration Analysis of Mixture-of-Experts GraphTransformers for High-Energy Physics**  
+- **Uncertainty and Calibration Analysis of Mixture-of-Experts GraphTransformers for High-Energy Physics**  
   *AI in Physical Sciences Workshop*  
-  [Talk details](https://sites.google.com/view/aiphys25/home/ | [Slides (PDF)](https://drive.google.com/file/d/1FPh-RL0DFaKV-WFp3ORDOW2Ci88zbrX0/view?usp=drive_link)
+  [Talk details](https://sites.google.com/view/aiphys25/home/) | [Slides (PDF)](https://drive.google.com/file/d/1FPh-RL0DFaKV-WFp3ORDOW2Ci88zbrX0/view?usp=drive_link)
 
 - **Mixture-of-Expert Graph Transformers for Interpretable Particle Collision Detection**  
   *EuCAIF Conference*  
