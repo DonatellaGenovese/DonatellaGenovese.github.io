@@ -14,11 +14,11 @@ author_profile: true
 </head>
 <body>
 
-<title>Donatella Genovese – PhD Candidate in AI</title>
-
 
   <!-- Banner image -->
   <img src="/assets/images/landscape-photo.jpg" alt="Donatella Genovese Banner" style="width: 100%; height: auto; display: block; margin-bottom: 2em;">
+  <title>Donatella Genovese – PhD Candidate in AI</title>
+
 
 
   <p>I am a PhD student enrolled in the National PhD in AI program at Sapienza University of Rome, under the supervision of <a href="https://www.sscardapane.it/">Simone Scardapane</a>. My research focuses on interpretable deep learning algorithms for scientific discovery and analysis.</p>
