@@ -9,6 +9,7 @@ author_profile: true
 <head>
   <meta charset="UTF-8">
   <meta name="description" content="Donatella Genovese, PhD Candidate in Artificial Intelligence">
+  <title>Donatella Genovese – PhD Candidate in AI</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow">
 </head>
@@ -17,7 +18,6 @@ author_profile: true
 
   <!-- Banner image -->
   <img src="/assets/images/landscape-photo.jpg" alt="Donatella Genovese Banner" style="width: 100%; height: auto; display: block; margin-bottom: 2em;">
-  <title>Donatella Genovese – PhD Candidate in AI</title>
 
 
 
