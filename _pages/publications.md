@@ -12,3 +12,9 @@ DOI: [10.1038/s41598-025-12003-9](https://doi.org/10.1038/s41598-025-12003-9)
 [Download Paper (PDF)](https://doi.org/10.1038/s41598-025-12003-9) | [Download Slides (PDF)](https://agenda.infn.it/event/43565/contributions/259958/attachments/137079/205889/Mixture_of_Expert_EuCAIF.pdf)
 
 
+**Capriotti, Sara**, Devoto, A., Genovese, D., Mignardi, S., Scardapane, S., Medeghini, L. (2025).
+*Towards interpretable deep learning in ceramic petrographic fabric classification through a comparative study of convolutional neural networks and vision transformers* Congresso congiunto SGI, SIMP 2025. 
+
+> Application of interpretability techniques on ceramic classification
+
+[Download Paper (PDF)](https://iris.uniroma1.it/handle/11573/1746903) 
