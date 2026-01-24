@@ -3,7 +3,7 @@ layout: splash
 title: "Donatella Genovese"
 permalink: /
 excerpt: "PhD Candidate in Artificial Intelligence"
-author_profile: false
+author_profile: true
 
 header:
   overlay_image: /assets/images/landscape-photo.jpg
@@ -19,7 +19,7 @@ My research focuses on **interpretable deep learning** and **AI for scientific d
 ## 🧠 BrainJuice
 
 I am **Co-founder of BrainJuice**, a group of students and researchers with diverse backgrounds, united by a passion for AI and neuroscience.  
-Follow BrainJuice on [Instagram](https://instagram.com/brainjuiceclub) and [LinkedIn](https://linkedin.com/company/brainjuiceclub) to stay updated on our activities.
+Follow BrainJuice on [Instagram](https://instagram.com/brainjuiceclub) and [LinkedIn](https://linkedin.com/company/brainjuiceclub).
 
 ---
 
@@ -31,3 +31,4 @@ You can find me on
 [Bluesky](https://bsky.app/profile/donatellag.bsky.social).
 
 Feel free to reach out!
+
