@@ -1,50 +1,60 @@
 # Site settings
-title: Donatella Genovese
-email: donatella.genovese@uniroma1.it
-description: >-
-  Donatella Genovese, PhD Candidate in Artificial Intelligence at Sapienza University of Rome. Research in interpretable deep learning and AI for scientific discovery.
-twitter_username: d_genovese
-github_username: DonatellaGenovese
-minimal_mistakes_skin: dark
+title: "Donatella Genovese"
+email: "donatella.genovese@uniroma1.it"
+description: >
+  Donatella Genovese, PhD Candidate in Artificial Intelligence at Sapienza University of Rome.
+  Research in interpretable deep learning and AI for scientific discovery.
+
+# Social media
+twitter_username: "d_genovese"
+github_username: "DonatellaGenovese"
+
+# Theme and customization
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # Amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+markdown: "kramdown"
+remote_theme: "mmistakes/minimal-mistakes"
 
+# Output settings
+permalink: "/:categories/:title/"
+paginate: 5
+paginate_path: "/page:num/"
+timezone: # Example: "Europe/Rome" (optional)
+
+# Include pages
 include:
-  - _pages
+  - "_pages"
 
 # Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# Exclude unnecessary files from being processed by Jekyll
+# exclude:
+#   - "Gemfile"
+#   - "Gemfile.lock"
+#   - "node_modules"
+#   - "vendor/bundle/"
+#   - "vendor/cache/"
+#   - "vendor/gems/"
+#   - "vendor/ruby/"
 
-# Plugins
+# Plugins (previously gems)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-seo-tag
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+  - "jekyll-gist"
+  - "jekyll-feed"
+  - "jemoji"
+  - "jekyll-include-cache"
+  - "jekyll-seo-tag"
 
-# Author Information
+# Author information (used in profile sections)
 author:
   name: "Donatella Genovese"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "PhD Candidate in Artificial Intelligence."
+
+  # Author's social links (for profile and footer)
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -67,11 +77,11 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=Zayruk4AAAAJ&hl=it"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
-# Footer Links
+# Footer links (links displayed in the footer)
 footer:
   links:
     - label: "Twitter"
@@ -92,35 +102,37 @@ footer:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=Zayruk4AAAAJ&hl=it"
-   # - label: "Instagram"
-   #   icon: "fab fa-fw fa-instagram"
-   #   url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
-# Defaults for Posts and Pages
+# Default settings for posts and pages
 defaults:
-  # _posts
+  # Posts settings
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: "single"
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-  # _pages
+
+  # Pages settings
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: "single"
       author_profile: true
 
-# Archives
+# Category and tag archive settings
 category_archive:
   type: liquid
-  path: /categories/
+  path: "/categories/"
+
 tag_archive:
   type: liquid
-  path: /tags/
+  path: "/tags/"
