@@ -12,6 +12,7 @@ github_username: "DonatellaGenovese"
 # Theme and customization
 minimal_mistakes_skin: "dark"
 search: true
+academicicons: true
 
 # Build settings
 markdown: "kramdown"
