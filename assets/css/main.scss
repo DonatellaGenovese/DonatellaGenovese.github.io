@@ -6,12 +6,12 @@
 
 /* Make hero image taller */
 .page__hero--overlay {
-  min-height: 90vh !important;
+  min-height: 75vh !important;
   display: flex;
   align-items: center;
 }
 
 .page__hero-image {
   object-fit: cover;
-  height: 90vh !important;
+  height: 75vh !important;
 }
