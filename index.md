@@ -1,14 +1,11 @@
 ---
-layout: splash
-title: "Donatella Genovese"
-permalink: /
-excerpt: "PhD Candidate in Artificial Intelligence"
+layout: single
 author_profile: true
-
+classes: wide
 header:
-  overlay_image: /assets/images/landscape-photo.jpg
-  overlay_filter: 0.35
-  actions: []
+  overlay_image: /assets/images/your-landscape.jpg
+  overlay_filter: 0.3
+  caption: ""
 ---
 
 I am a PhD candidate in the **National PhD in Artificial Intelligence** program at **Sapienza University of Rome**, working under the guidance of [Simone Scardapane](https://www.sscardapane.it/).  
