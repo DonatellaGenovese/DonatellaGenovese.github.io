@@ -1,6 +1,8 @@
 ---
 permalink: /publication/
 title: "Publications"
+layout: single
+classes: wide
 ---
 
 - **Genovese D.**, Sgroi A., Devoto A., Valentine S., Wood L., Sebastiani C., Scardapane S., D’Onofrio M., Giagu S. (2025).  
