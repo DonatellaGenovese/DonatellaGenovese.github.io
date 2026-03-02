@@ -22,5 +22,5 @@ Here are some of the colleagues and collaborators I currently work with:
 - [**Dr. Alessio Devoto**](https://alessiodevoto.github.io/)  
   Affiliation: Nvidia Corporate
 
-- [**Dr. Sara Capriotti**]([https://alessiodevoto.github.io/](https://phd.uniroma1.it/web/dottorato-sapienza-scienze-della-terra-capriotti-sara_nP1709342.aspx))  
+- [**Dr. Sara Capriotti**](https://phd.uniroma1.it/web/dottorato-sapienza-scienze-della-terra-capriotti-sara_nP1709342.aspx)  
   Affiliation: Sapienza University of Rome 
