@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author_profile: true
 classes: wide
 header:
@@ -9,6 +9,11 @@ header:
   title: "Donatella Genovese"
   subtitle: "Developing interpretable models for scientific discovery"
 ---
+<!-- Hero text overlay -->
+<div class="page__hero-text-custom">
+  <h1>Donatella Genovese</h1>
+  <h3>Developing interpretable models for scientific discovery</h3>
+</div>
 
 I am a PhD candidate in the **National PhD in Artificial Intelligence** program at **Sapienza University of Rome**, working under the guidance of [Simone Scardapane](https://www.sscardapane.it/) at the [ISPAMM Lab](https://sites.google.com/uniroma1.it/ispamm/). 
 
