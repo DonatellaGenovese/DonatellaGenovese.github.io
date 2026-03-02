@@ -6,6 +6,8 @@ header:
   overlay_image: /assets/images/landscape-photo2.jpg
   overlay_filter: 0.3
   caption: ""
+  title: "Donatella Genovese"
+  subtitle: "Developing interpretable models for scientific discovery"
 ---
 
 I am a PhD candidate in the **National PhD in Artificial Intelligence** program at **Sapienza University of Rome**, working under the guidance of [Simone Scardapane](https://www.sscardapane.it/) at the [ISPAMM Lab](https://sites.google.com/uniroma1.it/ispamm/). 
