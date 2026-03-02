@@ -1,6 +1,8 @@
 ---
 permalink: /people/
 title: "People I’m Working With"
+layout: single
+classes: wide
 ---
 
 Here are some of the colleagues and collaborators I currently work with:
