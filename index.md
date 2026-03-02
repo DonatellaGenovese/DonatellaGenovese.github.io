@@ -5,9 +5,6 @@ classes: wide
 header:
   overlay_image: /assets/images/landscape-photo2.jpg
   overlay_filter: 0.3
-  caption: ""
-  title: "Donatella Genovese"
-  subtitle: "Developing interpretable models for scientific discovery"
 ---
 <!-- Hero text overlay -->
 <div class="page__hero-text-custom">
