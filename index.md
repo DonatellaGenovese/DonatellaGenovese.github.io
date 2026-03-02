@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 header:
-  overlay_image: /assets/images/your-landscape.jpg
+  overlay_image: /assets/images/landscape-photo.jpg
   overlay_filter: 0.3
   caption: ""
 ---
