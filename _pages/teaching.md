@@ -1,6 +1,8 @@
 ---
 permalink: /teaching/
 title: "Teaching"
+layout: single
+classes: wide
 ---
 
 Here is a list of courses I have assisted in as a Teaching Assistant at Sapienza University of Rome:
