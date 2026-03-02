@@ -10,6 +10,7 @@ header:
 
 I am a PhD candidate in the **National PhD in Artificial Intelligence** program at **Sapienza University of Rome**, working under the guidance of [Simone Scardapane](https://www.sscardapane.it/).  
 My research focuses on **interpretable deep learning** and applying **AI to scientific discovery**.
+Currently, I am a Visiting PhD student at the University of Zurich, under the supervision of [Thea Klæboe Årrestad](https://thaarres.github.io/)
 
 ---
 
