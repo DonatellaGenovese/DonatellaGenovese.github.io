@@ -9,6 +9,8 @@ tags:
   - Plant Disease
   - ResNet18
 readability: standard
+layout: single
+classes: wide
 ---
 
 This post is a tutorial on implementing explainability techniques using the Captum library to interpret deep learning models applied to plant disease classification.
