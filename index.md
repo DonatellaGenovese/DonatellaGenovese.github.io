@@ -8,9 +8,9 @@ header:
   caption: ""
 ---
 
-I am a PhD candidate in the **National PhD in Artificial Intelligence** program at **Sapienza University of Rome**, working under the guidance of [Simone Scardapane](https://www.sscardapane.it/)  
+I am a PhD candidate in the **National PhD in Artificial Intelligence** program at **Sapienza University of Rome**, working under the guidance of [Simone Scardapane](https://www.sscardapane.it/) at the [ISPAMM Lab](https://sites.google.com/uniroma1.it/ispamm/). 
 
-<i class="fas fa-graduation-cap"></i> My research focuses on **interpretable deep learning** and applying **AI to scientific discovery**  
+<i class="fas fa-graduation-cap"></i> My research focuses on **interpretable deep learning** and applying **AI to scientific discovery.**
 
 <i class="fas fa-plane"></i> Currently, I am a **Visiting PhD student at the ETH Zurich**, under the supervision of [Thea Klæboe Årrestad](https://thaarres.github.io/)
 
