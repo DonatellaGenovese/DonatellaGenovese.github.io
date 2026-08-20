@@ -7,7 +7,7 @@ classes: wide
 - **Genovese D.**, Devoto A., Carmignani J., Sebastiani C., Scardapane S., D'Onofrio M. (2026).
   Graph transformer and mixture of experts for rare signal detection in calorimeter data.
   ML Science and Technology 
-  DOI: [10.1088/26322153/ae8e31](https://doi.org/10.1088/26322153/ae8e31)
+  DOI: [10.1088/2632-2153/ae8e31](https://doi.org/10.1088/2632-2153/ae8e31)
   > Application of graph transformer for signal detection in calorimeter data. 
   [Download Paper (PDF)](https://iopscience.iop.org/article/10.1088/2632-2153/ae8e31) 
 
