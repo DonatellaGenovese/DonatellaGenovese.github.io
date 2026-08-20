@@ -20,7 +20,7 @@ Here are some of the colleagues and collaborators I currently work with:
   Affiliation: CERN
 
 - [**Dr. Alessio Devoto**](https://alessiodevoto.github.io/)  
-  Affiliation: Nvidia Corporate
+  Affiliation: Nvidia 
 
 - [**Dr. Sara Capriotti**](https://phd.uniroma1.it/web/dottorato-sapienza-scienze-della-terra-capriotti-sara_nP1709342.aspx)  
   Affiliation: Sapienza University of Rome 
