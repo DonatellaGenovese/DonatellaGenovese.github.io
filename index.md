@@ -11,7 +11,7 @@ I am a PhD candidate in the **National PhD in Artificial Intelligence** program 
 
 <i class="fas fa-graduation-cap"></i> My research focuses on **interpretable deep learning** and applying **AI to scientific discovery.**
 
-<i class="fas fa-plane"></i> Currently, I am a **Visiting PhD student at the ETH Zurich**, under the supervision of [Thea Klæboe Årrestad](https://thaarres.github.io/)
+<i class="fas fa-plane"></i> I was previously a **Visiting PhD student at the ETH Zurich**, under the supervision of [Thea Klæboe Årrestad](https://thaarres.github.io/)
 
 ---
 
